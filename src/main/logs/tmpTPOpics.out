@@ -1,0 +1,10 @@
+2015-11-17 08:44:10,081 INFO  pool-1-thread-8 c.s.s.e.j.GenericReadWriteJob FailedRecords 0
+2015-11-17 08:44:10,081 INFO  pool-1-thread-8 c.s.s.e.j.GenericReadWriteJob Job TPMurex2CUR total records processed: 374890, ignored 120392
+2015-11-17 08:44:10,081 INFO  pool-1-thread-8 c.s.s.e.j.GenericReadWriteJob Job TPMurex2CUR is closing.
+2015-11-17 08:44:10,081 INFO  pool-1-thread-8 c.s.f.e.s.ExecutorServiceSchedulerImpl Notification: Job TPMurex2CUR has completed.
+2015-11-17 08:44:10,089 INFO  pool-1-thread-8 c.s.s.e.r.FileDumpReporter dump to file output/output/TPMurex2CURjobStatus.2015-11-17.082656.html
+2015-11-17 08:44:10,089 INFO  pool-1-thread-8 c.s.s.e.BootStrapMarginReform Job [com.scb.sail.eod.job.TpDb2DbJob@6da0fa3] finished
+2015-11-17 08:44:10,089 INFO  main c.s.s.u.Blocker All jobs finished. Going to shutdown
+2015-11-17 08:44:10,105 INFO  main c.s.s.e.BootStrapBase class com.scb.sail.eod.BootStrapMarginReform completed sucessfully. Time taken 1040729ms. Bye!!
+2015-11-17 08:44:10,107 INFO  Thread-14 c.s.s.e.BootStrapBase stopping logback. wait 20 ms before shutdown. hope to flush asyncappender...
+
